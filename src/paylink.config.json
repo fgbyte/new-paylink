@@ -1,39 +1,39 @@
 {
-  "theme": "night",
+  "theme": "aqua",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer, engineer and tireless creator. Building products that make developers happy.",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Fernando Garcia",
+    "description": "Frontend Developer",
+    "alt": "Photo of Fernando Garcia",
+    "hero": "https://fgbyte.com/profile.jpg"
   },
 
   "Social": [
     {
       "label": "Email",
       "value": "bx-envelope",
-      "link": "mailto:dlcastillo3015@gmail.com"
+      "link": ""
     },
-    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.com" },
+    { "label": "Link", "value": "bx-link", "link": "https://fgbyte.com" },
     {
       "label": "GitHub",
       "value": "bxl-github",
-      "link": "https://github.com/dlcastillop"
+      "link": "https://github.com/fgbyte"
     },
     {
       "label": "Twitter",
       "value": "bxl-twitter",
-      "link": "https://twitter.com/dlcastillop"
+      "link": "https://twitter.com/fgbyte"
     },
     {
       "label": "LinkedIn",
       "value": "bxl-linkedin",
-      "link": "https://linkedin.com/in/dlcastillop"
+      "link": "https://linkedin.com/in/fgbyte"
     },
     {
       "label": "Instagram",
       "value": "bxl-instagram",
-      "link": "https://instagram.com/dlcastillop"
+      "link": "https://instagram.com/fgbyte"
     },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
@@ -54,8 +54,14 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "3DGgxto8Noo6hGUv88cjoE8cdRA5xtZRpx",
       "img": "./images/payments/btc.svg"
+    },
+    {
+      "id": "eth",
+      "label": "Ethereum",
+      "value": "0x3c6338f1745f6a90f81bd1d509acac3b9abfadca",
+      "img": "./images/payments/eth.svg"
     },
     {
       "id": "busd",
@@ -65,8 +71,8 @@
     },
     {
       "id": "matic",
-      "label": "Matic",
-      "value": "",
+      "label": "Polygon",
+      "value": "0xd9583dafd602427872090fa2971c7b0029940ef0",
       "img": "./images/payments/matic.svg"
     },
     {
@@ -74,12 +80,6 @@
       "label": "DogeCoin",
       "value": "",
       "img": "./images/payments/doge.svg"
-    },
-    {
-      "id": "eth",
-      "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
-      "img": "./images/payments/eth.svg"
     },
     {
       "id": "ltc",
@@ -96,7 +96,7 @@
     {
       "id": "usdt",
       "label": "USDT (TRC20)",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "",
       "img": "./images/payments/usdt.svg"
     },
     {
@@ -114,13 +114,19 @@
     {
       "id": "trx",
       "label": "Tron",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "",
       "img": "./images/payments/trx.svg"
+    },
+    {
+      "id": "near",
+      "label": "NEAR",
+      "value": "1234",
+      "img": "https://cryptologos.cc/logos/thumbs/near-protocol.png?v=023"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/fgbyte",
       "img": "./images/payments/qvapay.svg"
     },
     {
